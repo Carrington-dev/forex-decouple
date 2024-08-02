@@ -19,5 +19,6 @@ setup(
     install_requires=[
         # List your package dependencies here, e.g.,
         'requests',
+        'setuptools',
     ],
 )
