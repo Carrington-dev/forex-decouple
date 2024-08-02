@@ -1,4 +1,4 @@
-from forex_python.forex import exchange_currency, get_all_currencies
+from forex_decouple.forex import exchange_currency, get_all_currencies
 
 print(get_all_currencies())
 

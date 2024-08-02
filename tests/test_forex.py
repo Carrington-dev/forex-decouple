@@ -1,5 +1,5 @@
 import unittest
-from forex_python.forex import exchange_currency, get_all_currencies
+from forex_decouple.forex import exchange_currency, get_all_currencies
 
 class TestModule1(unittest.TestCase):
     def test_exchange_currency(self):

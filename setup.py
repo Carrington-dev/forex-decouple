@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='forex-python',
+    name='forex-decouple',
     version='0.1.0',
     author='Carrington Muleya',
-    author_email='mcm96m@gmail.com',
+    author_email='crn96m@gmail.com',
     description='Python Currency Converter and Forex Engine',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/carrington-dev/forex-python',
+    url='https://github.com/carrington-dev/forex-decouple',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
